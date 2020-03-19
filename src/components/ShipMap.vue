@@ -46,7 +46,6 @@ export default {
   },
   data() {
     return {
-      mapApi: process.env.VUE_APP_MAP_API_KEY,
       zoom: 2,
       center: L.latLng(34.583069, -40.890467),
       icon: shipImage,

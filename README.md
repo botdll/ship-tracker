@@ -1,4 +1,4 @@
-# marine
+# ship-tracker
 
 ## Project setup
 ```
